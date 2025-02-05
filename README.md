@@ -36,5 +36,3 @@ Every project is a new adventure for me. Whether it’s solving complex problems
 <br />
 <br />
 <br />
-
-Copyright ⓒ startupcode yaro
