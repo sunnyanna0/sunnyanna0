@@ -13,8 +13,6 @@
 팀원들과의 협업을 위해 문서화된 내용을 Notion이나 공유 문서로 정리해두는 습관을 갖고 있습니다.
 
 
-<br />
-<br />
 
 ## Skills
 <table>
@@ -68,7 +66,7 @@
 <tr>
   <!-- 5: Tools -->
   <td width="50%" valign="top">
-    <h4>tools</h4>
+    <h4>Tools</h4>
     <p>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
