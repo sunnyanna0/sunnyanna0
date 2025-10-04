@@ -49,7 +49,6 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Qdrant-FF4D4D?style=flat-square&logo=qdrant&logoColor=white"/>
-      
     </p>
   </td>
 
