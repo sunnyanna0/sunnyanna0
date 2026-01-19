@@ -77,8 +77,8 @@
 
   <!-- 6: GitHub Stats -->
   <td width="50%" valign="top">
-    <h4>GitHub Stats</h4>
-    <img src="https://github-readme-stats.vercel.app/api?username=sunnyanna0&show_icons=true&theme=omni&count_private=true&hide=stars"/>
-  </td>
+  <h4>GitHub Stats</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=sunnyanna0&show_icons=true&theme=omni&count_private=true&show=reviews&hide=stars,contribs"/>
+</td>
 </tr>
 </table>
